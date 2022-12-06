@@ -12,7 +12,6 @@ public class Set_linked {
 		name.add("Harish");
 		System.out.println(name.contains("Harish"));
 		System.out.println(name.size());
-		
 		System.out.println(name);
 
 	}
