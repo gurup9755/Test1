@@ -10,6 +10,7 @@ public class Set_linked {
 		name.add("Ravi");
 		name.add("abi");
 		name.add("karthiga");
+		name.add("Sowmi");
 		System.out.println(name.contains("Harish"));
 		System.out.println(name.size());
 		System.out.println(name);
