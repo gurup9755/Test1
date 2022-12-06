@@ -8,8 +8,8 @@ public class Set_linked {
 		name.add("hari");
 		name.add("Guru");
 		name.add("Ravi");
-		name.add("vijay");
-		name.add("Harish");
+		name.add("abi");
+		name.add("karthiga");
 		System.out.println(name.contains("Harish"));
 		System.out.println(name.size());
 		System.out.println(name);
